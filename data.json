@@ -1,0 +1,103 @@
+{
+  "owner": "Roberto Sanchez",
+  "address": "12 road of Pikachu",
+  "name": "Arkose",
+  "members": [
+    {
+      "inscriptionDate": "04-03-2017",
+      "firstname": "Thierry",
+      "lastname": "Dubois",
+      "email": "thierry.dubois@protonmail.com",
+      "password": "1234",
+      "climbingRoutes": [{ "grade:": "V4", "color": "Red" }]
+    },
+    {
+      "inscriptionDate": "08-12-2022",
+      "firstname": "François",
+      "lastname": "Momo",
+      "email": "françois.m@yahoo.com",
+      "password": "3456",
+      "climbingRoutes": [
+        { "grade:": "V17", "color": "Black" },
+        { "grade:": "V2", "color": "Yellow" }
+      ]
+    },
+    {
+      "inscriptionDate": "08-12-2022",
+      "firstname": "François",
+      "lastname": "Momo",
+      "email": "françois.m@yahoo.com",
+      "password": "3456",
+      "climbingRoutes": [
+        { "grade:": "V17", "color": "Black" },
+        { "grade:": "V2", "color": "Yellow" }
+      ]
+    },
+    {
+      "inscriptionDate": "08-12-2022",
+      "firstname": "François",
+      "lastname": "Momo",
+      "email": "françois.m@yahoo.com",
+      "password": "3456",
+      "climbingRoutes": [
+        { "grade:": "V17", "color": "Black" },
+        { "grade:": "V2", "color": "Yellow" }
+      ]
+    },
+    {
+      "inscriptionDate": "08-12-2022",
+      "firstname": "François",
+      "lastname": "Momo",
+      "email": "françois.m@yahoo.com",
+      "password": "3456",
+      "climbingRoutes": [
+        { "grade:": "V17", "color": "Black" },
+        { "grade:": "V2", "color": "Yellow" }
+      ]
+    },
+    {
+      "inscriptionDate": "08/12/2022",
+      "firstname": "François",
+      "lastname": "Momo",
+      "email": "françois.m@yahoo.com",
+      "password": "3456",
+      "climbingRoutes": [
+        { "grade:": "V17", "color": "Black" },
+        { "grade:": "V2", "color": "Yellow" }
+      ]
+    },
+    {
+      "inscriptionDate": "08/12/2022",
+      "firstname": "François",
+      "lastname": "Momo",
+      "email": "françois.m@yahoo.com",
+      "password": "3456",
+      "climbingRoutes": [
+        { "grade:": "V17", "color": "Black" },
+        { "grade:": "V2", "color": "Yellow" }
+      ]
+    },
+    {
+      "inscriptionDate": "08/12/2022",
+      "firstname": "François",
+      "lastname": "Momo",
+      "email": "françois.m@yahoo.com",
+      "password": "3456",
+      "climbingRoutes": [
+        { "grade:": "V17", "color": "Black" },
+        { "grade:": "V2", "color": "Yellow" }
+      ]
+    },
+    {
+      "inscriptionDate": "08/12/2022",
+      "firstname": "François",
+      "lastname": "Momo",
+      "email": "françois.m@yahoo.com",
+      "password": "3456",
+      "climbingRoutes": [
+        { "grade:": "V17", "color": "Black" },
+        { "grade:": "V2", "color": "Yellow" }
+      ]
+    }
+  ]
+}
